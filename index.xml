@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[3TDdTdePnbhBPG5u3BwbyA]]></key>
+    <method><![CDATA[book_isbn]]></method>
+  </Request>
+  <book>
+  <id>32938546</id>
+  <title>Vitória</title>
+  <isbn><![CDATA[8583180717]]></isbn>
+  <isbn13><![CDATA[9788583180715]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1479479151m/32938546.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1479479151s/32938546.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day></publication_day>
+  <publisher>Dublinense</publisher>
+  <language_code>por</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Joseph Conrad é um escritor singular na língua inglesa. O estilo único é resultado de sua formação poliglota e multicultural: Conrad nasceu na Polônia, foi educado em polonês e em francês, além de ter estudado latim, mas escolheu o inglês para escrever, idioma que só foi aprender aos vinte e um anos. Isso lhe confere um manejo incomum na língua, pois sua prosa evidencia a cadência latina. Suas frases ondulantes criam um ritmo nunca antes visto, selvagem e — ainda assim — sofisticado.<br /><br /><i>Vitória</i> foi finalizado em maio de 1914, mas publicado apenas no ano seguinte, já em meio à Primeira Guerra Mundial. O livro traz temas recorrentes na obra de Conrad, como a solidão, a inconformidade com o mundo, o conflito entre o mal e a esperança. Seu protagonista, Axel Heyst, instala-se em uma ilha no sul asiático, em total isolamento, após um fracasso comercial que não abala sua aceitação resignada do destino. Mas a aparição de uma jovem musicista desperta nele um instinto de proteção que o levará a uma crise de identidade e, mais tarde, ao enfrentamento de grandes perigos.]]></description>
+  <work>
+  <id type="integer">2378764</id>
+  <books_count type="integer">213</books_count>
+  <best_book_id type="integer">438078</best_book_id>
+  <reviews_count type="integer">6822</reviews_count>
+  <ratings_sum type="integer">9799</ratings_sum>
+  <ratings_count type="integer">2539</ratings_count>
+  <text_reviews_count type="integer">220</text_reviews_count>
+  <original_publication_year type="integer">1915</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Victory</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:715|4:987|3:643|2:153|1:41|total:2539</rating_dist>
+  <desc_user_id type="integer">11351200</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[400]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[TAG Experiências Literárias]]></edition_information>
+  <ratings_count><![CDATA[58]]></ratings_count>
+  <text_reviews_count><![CDATA[6]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/32938546-vit-ria]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/32938546-vit-ria]]></link>
+  <authors>
+<author>
+<id>3345</id>
+<name>Joseph Conrad</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1403814208p5/3345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1403814208p2/3345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3345.Joseph_Conrad]]></link>
+<average_rating>3.50</average_rating>
+<ratings_count>443144</ratings_count>
+<text_reviews_count>16449</text_reviews_count>
+</author>
+<author>
+<id>16067364</id>
+<name>Hilton Lima</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16067364.Hilton_Lima]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>58</ratings_count>
+<text_reviews_count>6</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/32938546-vit-ria">Vitória Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=8583180717&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/32938546-vit-ria?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="fiction" count="160"/>
+      <shelf name="to-read" count="130"/>
+      <shelf name="classics" count="114"/>
+      <shelf name="literature" count="32"/>
+      <shelf name="favorites" count="26"/>
+      <shelf name="classic" count="21"/>
+      <shelf name="novels" count="20"/>
+      <shelf name="default" count="18"/>
+      <shelf name="british" count="17"/>
+      <shelf name="books-i-own" count="16"/>
+      <shelf name="conrad" count="12"/>
+      <shelf name="20th-century" count="11"/>
+      <shelf name="literary-fiction" count="11"/>
+      <shelf name="british-literature" count="10"/>
+      <shelf name="novel" count="10"/>
+      <shelf name="library" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="joseph-conrad" count="8"/>
+      <shelf name="19th-century" count="8"/>
+      <shelf name="english-literature" count="7"/>
+      <shelf name="english" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="polish" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="british-lit" count="5"/>
+      <shelf name="brit-lit" count="5"/>
+      <shelf name="501-must-read-books" count="5"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="guardian-1000" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="adventure" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="classic-literature" count="4"/>
+      <shelf name="fiction-to-read" count="4"/>
+      <shelf name="everyman-s-library" count="4"/>
+      <shelf name="e-book" count="4"/>
+      <shelf name="modern-fiction" count="4"/>
+      <shelf name="asia" count="4"/>
+      <shelf name="love" count="4"/>
+      <shelf name="ebook" count="4"/>
+      <shelf name="tag" count="3"/>
+      <shelf name="guardian-love" count="3"/>
+      <shelf name="maybe" count="3"/>
+      <shelf name="historical-fiction" count="3"/>
+      <shelf name="psychology" count="3"/>
+      <shelf name="historical" count="3"/>
+      <shelf name="book-club" count="3"/>
+      <shelf name="adult-fiction" count="3"/>
+      <shelf name="fiction-classics" count="3"/>
+      <shelf name="conrad-joseph" count="3"/>
+      <shelf name="classics-to-read" count="3"/>
+      <shelf name="i-own" count="3"/>
+      <shelf name="poland" count="3"/>
+      <shelf name="501" count="3"/>
+      <shelf name="public-domain" count="3"/>
+      <shelf name="sea" count="3"/>
+      <shelf name="british-irish" count="3"/>
+      <shelf name="penguin-classics" count="3"/>
+      <shelf name="travel" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="own-but-not-read" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="want-to-own" count="2"/>
+      <shelf name="boxall-guardian-owned-not-read" count="2"/>
+      <shelf name="unfinished" count="2"/>
+      <shelf name="other-fiction" count="2"/>
+      <shelf name="novela" count="2"/>
+      <shelf name="ficção" count="2"/>
+      <shelf name="minha-biblioteca" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="bookshelf" count="2"/>
+      <shelf name="my-bookshelf" count="2"/>
+      <shelf name="inglese" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="my-kindle" count="2"/>
+      <shelf name="southeast-asia" count="2"/>
+      <shelf name="letteratura-inglese" count="2"/>
+      <shelf name="colonial" count="2"/>
+      <shelf name="everymans-library" count="2"/>
+      <shelf name="whishlist" count="2"/>
+      <shelf name="fitzgerald-s-list" count="2"/>
+      <shelf name="to-read-owned" count="2"/>
+      <shelf name="ap-lit" count="2"/>
+      <shelf name="victorian" count="2"/>
+      <shelf name="narrativa" count="2"/>
+      <shelf name="modernism" count="2"/>
+      <shelf name="c" count="2"/>
+      <shelf name="20th-century-lit" count="2"/>
+      <shelf name="collection" count="2"/>
+      <shelf name="paperback" count="2"/>
+      <shelf name="classics-english" count="2"/>
+      <shelf name="modern-library" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="audible" count="2"/>
+      <shelf name="to-read-fiction" count="2"/>
+      <shelf name="flavorwire" count="2"/>
+      <shelf name="501-must-reads" count="2"/>
+      <shelf name="scanned" count="2"/>
+      <shelf name="nautical" count="2"/>
+      <shelf name="romance" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>1423</id>
+        <document_url>
+          http://feedbooks.com/book/725.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>1198855</id>
+<title>South Wind</title>
+<title_without_series>South Wind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1198855.South_Wind]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>1186973</id>
+</work>
+<isbn>1406926981</isbn>
+<isbn13>9781406926989</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>156</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1653</id>
+<name>Norman Douglas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1653.Norman_Douglas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1961551</id>
+<title>Maurice Guest</title>
+<title_without_series>Maurice Guest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1961551.Maurice_Guest]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1964622</id>
+</work>
+<isbn>1406838713</isbn>
+<isbn13>9781406838718</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>80</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>235275</id>
+<name>Henry Handel Richardson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/235275.Henry_Handel_Richardson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>548146</id>
+<title>Love For Lydia</title>
+<title_without_series>Love For Lydia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/548146.Love_For_Lydia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350921028s/548146.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350921028m/548146.jpg]]></image_url>
+<num_pages>319</num_pages>
+<work>
+<id>535404</id>
+</work>
+<isbn>0863076955</isbn>
+<isbn13>9780863076954</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>364</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>87094</id>
+<name>H.E. Bates</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87094.H_E_Bates]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6261782</id>
+<title><![CDATA[The Best American Humorous Short Stories]]></title>
+<title_without_series><![CDATA[The Best American Humorous Short Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6261782-the-best-american-humorous-short-stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2931530</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>2.92</average_rating>
+<ratings_count>78</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1912442</id>
+<name>Alexander Jessup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1912442.Alexander_Jessup]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1473860</id>
+<title>The Echoing Grove</title>
+<title_without_series>The Echoing Grove</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1473860.The_Echoing_Grove]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>2555547</id>
+</work>
+<isbn>1844080366</isbn>
+<isbn13>9781844080366</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>221</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45697</id>
+<name>Rosamond Lehmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45697.Rosamond_Lehmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12691061</id>
+<title><![CDATA[An Outline of Abnormal Psychology]]></title>
+<title_without_series><![CDATA[An Outline of Abnormal Psychology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12691061-an-outline-of-abnormal-psychology]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>17820276</id>
+</work>
+<isbn>1166136299</isbn>
+<isbn13>9781166136291</isbn13>
+<average_rating>3.33</average_rating>
+<ratings_count>9</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5694038</id>
+<name>Murphy Gardner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5694038.Murphy_Gardner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>971088</id>
+<title>The Egoist</title>
+<title_without_series>The Egoist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/971088.The_Egoist]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>2511800</id>
+</work>
+<isbn>0140430342</isbn>
+<isbn13>9780140430349</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>1217</ratings_count>
+<publication_year>1978</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>12222</id>
+<name>George Meredith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12222.George_Meredith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1098637</id>
+<title>Life of Jesus</title>
+<title_without_series>Life of Jesus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1098637.Life_of_Jesus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1085497</id>
+</work>
+<isbn>0766175332</isbn>
+<isbn13>9780766175334</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>177</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9809310</id>
+<name>Ernest Renan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9809310.Ernest_Renan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>751629</id>
+<title>The Tragic Muse</title>
+<title_without_series>The Tragic Muse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/751629.The_Tragic_Muse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>1650914</id>
+</work>
+<isbn>0140433899</isbn>
+<isbn13>9780140433890</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>189</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>1</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>159</id>
+<name>Henry James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159.Henry_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>84512</id>
+<title>Look at Me</title>
+<title_without_series>Look at Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/84512.Look_at_Me]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1483585077s/84512.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1483585077m/84512.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>621659</id>
+</work>
+<isbn>0140147454</isbn>
+<isbn13>9780140147452</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>828</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>28244</id>
+<name>Anita Brookner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28244.Anita_Brookner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18869975</id>
+<title>The Parasites</title>
+<title_without_series>The Parasites</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18869975-the-parasites]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1386612040s/18869975.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1386612040m/18869975.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>2728005</id>
+</work>
+<isbn>0316253502</isbn>
+<isbn13>9780316253505</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>1056</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>2001717</id>
+<name>Daphne du Maurier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2001717.Daphne_du_Maurier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13641909</id>
+<title><![CDATA[The Complete Poems of Keats and Shelley]]></title>
+<title_without_series><![CDATA[The Complete Poems of Keats and Shelley]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13641909-the-complete-poems-of-keats-and-shelley]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392687334s/13641909.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392687334m/13641909.jpg]]></image_url>
+<num_pages>1312</num_pages>
+<work>
+<id>709044</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>43</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11978</id>
+<name>John Keats</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11978.John_Keats]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>392005</id>
+<title>The Silent Duchess</title>
+<title_without_series>The Silent Duchess</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/392005.The_Silent_Duchess]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1304352344s/392005.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1304352344m/392005.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>381607</id>
+</work>
+<isbn>155861222X</isbn>
+<isbn13>9781558612228</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>1112</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>157782</id>
+<name>Dacia Maraini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157782.Dacia_Maraini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2251777</id>
+<title>The Revolt of the Angels</title>
+<title_without_series>The Revolt of the Angels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2251777.The_Revolt_of_the_Angels]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358267322s/2251777.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358267322m/2251777.jpg]]></image_url>
+<num_pages>282</num_pages>
+<work>
+<id>736287</id>
+</work>
+<isbn>1399719238</isbn>
+<isbn13></isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>807</ratings_count>
+<publication_year>1928</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>48535</id>
+<name>Anatole France</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48535.Anatole_France]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7017673</id>
+<title><![CDATA[Within A Budding Grove, Part 1]]></title>
+<title_without_series><![CDATA[Within A Budding Grove, Part 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7017673-within-a-budding-grove-part-1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1325606965s/7017673.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1325606965m/7017673.jpg]]></image_url>
+<num_pages>396</num_pages>
+<work>
+<id>24344349</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>132</ratings_count>
+<publication_year>1924</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>233619</id>
+<name>Marcel Proust</name>
+<link><![CDATA[https://www.goodreads.com/author/show/233619.Marcel_Proust]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>817019</id>
+<title>Green Mansions</title>
+<title_without_series>Green Mansions</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/817019.Green_Mansions]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>802906</id>
+</work>
+<isbn>0192832883</isbn>
+<isbn13>9780192832887</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>2231</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>11</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>389792</id>
+<name>William Henry Hudson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389792.William_Henry_Hudson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1329152</id>
+<title>From The Fifteenth District</title>
+<title_without_series>From The Fifteenth District</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1329152.From_The_Fifteenth_District]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320542914s/1329152.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320542914m/1329152.jpg]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>1217010</id>
+</work>
+<isbn>0771032935</isbn>
+<isbn13>9780771032936</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>194</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>99482</id>
+<name>Mavis Gallant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99482.Mavis_Gallant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>376465</id>
+<title>The Horse&apos;s Mouth</title>
+<title_without_series>The Horse&apos;s Mouth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/376465.The_Horse_s_Mouth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320467596s/376465.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320467596m/376465.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>366317</id>
+</work>
+<isbn>0940322196</isbn>
+<isbn13>9780940322196</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1037</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>76129</id>
+<name>Joyce Cary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76129.Joyce_Cary]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

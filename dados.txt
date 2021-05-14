@@ -1,0 +1,4 @@
+key: 3TDdTdePnbhBPG5u3BwbyA
+secret: AcouxjFUTk2zIziF6VNKIRNWmoCs3ffMtQlLOZXUg
+
+https://www.goodreads.com/book/isbn/9788583180715?key=3TDdTdePnbhBPG5u3BwbyA
